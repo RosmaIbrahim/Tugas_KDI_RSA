@@ -10,6 +10,6 @@
 3. **Dekripsi**: $M = C^d \pmod n$
 
 ## Cara Menjalankan
-1. **Kompilasi**:
+**Kompilasi**:
    ```bash
-   g++ -o rsa main.cpp
+   g++ -o rsa tugas.cpp
