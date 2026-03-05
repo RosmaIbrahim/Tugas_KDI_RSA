@@ -9,7 +9,12 @@
 2. **Enkripsi**: $C = M^e \pmod n$
 3. **Dekripsi**: $M = C^d \pmod n$
 
+## Link Youtube
+[https://youtu.be/VhRxadFDPEE](https://youtu.be/VhRxadFDPEE)
+
 ## Cara Menjalankan
 **Kompilasi**:
    ```bash
    g++ -o rsa tugas.cpp
+
+
